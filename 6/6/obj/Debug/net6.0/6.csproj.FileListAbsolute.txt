@@ -1,0 +1,15 @@
+C:\Users\Star\source\repos\6\6\bin\Debug\net6.0\6.exe
+C:\Users\Star\source\repos\6\6\bin\Debug\net6.0\6.deps.json
+C:\Users\Star\source\repos\6\6\bin\Debug\net6.0\6.runtimeconfig.json
+C:\Users\Star\source\repos\6\6\bin\Debug\net6.0\6.dll
+C:\Users\Star\source\repos\6\6\bin\Debug\net6.0\6.pdb
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.csproj.AssemblyReference.cache
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.AssemblyInfoInputs.cache
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.AssemblyInfo.cs
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.csproj.CoreCompileInputs.cache
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.dll
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\refint\6.dll
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.pdb
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\6.genruntimeconfig.cache
+C:\Users\Star\source\repos\6\6\obj\Debug\net6.0\ref\6.dll
