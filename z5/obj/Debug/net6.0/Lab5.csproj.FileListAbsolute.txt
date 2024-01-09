@@ -1,0 +1,15 @@
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\bin\Debug\net6.0\Lab5.exe
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\bin\Debug\net6.0\Lab5.deps.json
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\bin\Debug\net6.0\Lab5.runtimeconfig.json
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\bin\Debug\net6.0\Lab5.dll
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\bin\Debug\net6.0\Lab5.pdb
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.csproj.AssemblyReference.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfoInputs.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfo.cs
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.csproj.CoreCompileInputs.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.dll
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\refint\Lab5.dll
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.pdb
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\Lab5.genruntimeconfig.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Lab5\obj\Debug\net6.0\ref\Lab5.dll

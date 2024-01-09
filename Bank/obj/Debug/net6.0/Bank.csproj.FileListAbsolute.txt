@@ -1,0 +1,15 @@
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\bin\Debug\net6.0\Bank.exe
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\bin\Debug\net6.0\Bank.deps.json
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\bin\Debug\net6.0\Bank.dll
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\bin\Debug\net6.0\Bank.pdb
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.dll
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\refint\Bank.dll
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.pdb
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+D:\Repositories\Languages-and-methods-of-programming\Year2\Bank\obj\Debug\net6.0\ref\Bank.dll
